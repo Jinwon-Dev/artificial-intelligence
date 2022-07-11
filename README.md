@@ -4,7 +4,7 @@
 파이썬을 이용해 작성하며, 머신러닝과 딥러닝에 관해 매주 기록합니다.
 
 -----
-실습 해본 코드는 Github에 저장하며, 정리한 내용은 Notion에 기록합니다.
+실습 해본 코드는 [Github](https://github.com/Jinwon-Dev/artificial-intelligence)에 저장하며, 정리한 내용은 [Notion](https://jinwonyoon.notion.site/Artificial-Intelligence-b01648e7ae1d4d1b97b523fe73c480d9)에 기록합니다.
 
 - Chapter 1 : [나의 첫 머신러닝](https://jinwonyoon.notion.site/Chapter-1-0ee0eb675a9940ea84fba15006111299)
 - Chapter 2 : [데이터 다루기](https://jinwonyoon.notion.site/Chapter-2-a676d519ae7846af850784f81947d75d)
