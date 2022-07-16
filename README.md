@@ -8,7 +8,7 @@
 
 - Chapter 1 : [나의 첫 머신러닝](https://jinwonyoon.notion.site/Chapter-1-0ee0eb675a9940ea84fba15006111299)
 - Chapter 2 : [데이터 다루기](https://jinwonyoon.notion.site/Chapter-2-a676d519ae7846af850784f81947d75d)
-- Chapter 3 : [회귀 알고리즘과 모델 규제]
+- Chapter 3 : [회귀 알고리즘과 모델 규제](https://jinwonyoon.notion.site/Chapter-3-d1d6c7093ca54751a892c0132d5c57d2)
 - Chapter 4 : [다양한 분류 알고리즘]
 - Chapter 5 : [트리 알고리즘]
 - Chapter 6 : [비지도 학습]
