@@ -29,7 +29,7 @@
 
 - Chapter 4 : [다양한 분류 알고리즘](https://jinwonyoon.notion.site/Chapter-4-c979e7fea39c45e794ead4422edb6e7e)
   - **로지스틱 회귀 알고리즘**과 다중 분류에 대해 알아봅니다.
-    - `LogitsticRegression` 클래스를 이용하여 로지스틱 회귀를 구현해 봅니다.
+    - `LogisticRegression` 클래스를 이용하여 로지스틱 회귀를 구현해 봅니다.
   - **확률적 경사 하강법**과 **손실 함수**, **에포크**에 대해 알아봅니다.
     - `SGDClassifier` 를 이용해 확률적 경사 하강법을 사용한 분류 모델을 구현해 봅니다.  
 
